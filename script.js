@@ -1,1 +1,3 @@
-console.log("HALO App Started");
+function sayHello() {
+  alert("Welcome to HALO!");
+}
